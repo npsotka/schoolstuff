@@ -1,14 +1,14 @@
 [
   {
-    "Id": 1,
+    "Id": "1",
     "Name": "Blue Monkey Clothing"
   },
   {
-    "Id": 2,
+    "Id": "2",
     "Name": "Orange Outfitters"
   },
   {
-    "Id": 3,
+    "Id": "3",
     "Name": "Azule Apparel"
   }
 ]
