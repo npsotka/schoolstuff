@@ -23,7 +23,7 @@
     },
     {
       "Id": "3",
-      "BrandId": 1,
+      "BrandId": 3,
       "ProductName": "Dress",
       "GraphicName": "dress.jpg",
       "CostPrice": 39.99,
@@ -34,7 +34,7 @@
     },
     {
       "Id": "4",
-      "BrandId": 3,
+      "BrandId": 1,
       "ProductName": "Hoodie",
       "GraphicName": "hoodie.jpg",
       "CostPrice": 24.99,
@@ -56,7 +56,7 @@
     },
     {
       "Id": "6",
-      "BrandId": 1,
+      "BrandId": 3,
       "ProductName": "Shorts",
       "GraphicName": "shorts.jpg",
       "CostPrice": 19.99,
@@ -67,7 +67,7 @@
     },
     {
       "Id": "7",
-      "BrandId": 3,
+      "BrandId": 1,
       "ProductName": "Skirt",
       "GraphicName": "skirt.jpg",
       "CostPrice": 22.99,
@@ -89,7 +89,7 @@
     },
     {
       "Id": "9",
-      "BrandId": 1,
+      "BrandId": 3,
       "ProductName": "Blouse",
       "GraphicName": "blouse.jpg",
       "CostPrice": 29.99,
@@ -100,7 +100,7 @@
     },
     {
       "Id": "10",
-      "BrandId": 3,
+      "BrandId": 1,
       "ProductName": "Pants",
       "GraphicName": "pants.jpg",
       "CostPrice": 27.99,
@@ -122,7 +122,7 @@
     },
     {
       "Id": "12",
-      "BrandId": 1,
+      "BrandId": 3,
       "ProductName": "Coat",
       "GraphicName": "coat.jpg",
       "CostPrice": 59.99,
@@ -133,7 +133,7 @@
     },
     {
       "Id": "13",
-      "BrandId": 3,
+      "BrandId": 1,
       "ProductName": "Sweatshirt",
       "GraphicName": "sweatshirt.jpg",
       "CostPrice": 21.99,
@@ -155,7 +155,7 @@
     },
     {
       "Id": "15",
-      "BrandId": 1,
+      "BrandId": 3,
       "ProductName": "Jumpsuit",
       "GraphicName": "jumpsuit.jpg",
       "CostPrice": 39.99,
