@@ -1,0 +1,167 @@
+[
+    {
+      "Id": "1",
+      "BrandId": 1,
+      "ProductName": "T-Shirt",
+      "GraphicName": "tshirt.jpg",
+      "CostPrice": 15.99,
+      "MSRP": 29.99,
+      "QtyOnHand": 50,
+      "QtyOnBackOrder": 5,
+      "Description": "Stay comfortable and stylish with this trendy T-Shirt. Made from high-quality fabric, it's perfect for any casual occasion."
+    },
+    {
+      "Id": "2",
+      "BrandId": 2,
+      "ProductName": "Jeans",
+      "GraphicName": "jeans.jpg",
+      "CostPrice": 29.99,
+      "MSRP": 59.99,
+      "QtyOnHand": 100,
+      "QtyOnBackOrder": 0,
+      "Description": "Step up your fashion game with these classic jeans. Crafted with care, they offer both style and durability for everyday wear."
+    },
+    {
+      "Id": "3",
+      "BrandId": 1,
+      "ProductName": "Dress",
+      "GraphicName": "dress.jpg",
+      "CostPrice": 39.99,
+      "MSRP": 79.99,
+      "QtyOnHand": 20,
+      "QtyOnBackOrder": 10,
+      "Description": "Make a statement with this elegant dress. With its exquisite design and comfortable fit, it's perfect for special occasions or a night out."
+    },
+    {
+      "Id": "4",
+      "BrandId": 3,
+      "ProductName": "Hoodie",
+      "GraphicName": "hoodie.jpg",
+      "CostPrice": 24.99,
+      "MSRP": 49.99,
+      "QtyOnHand": 75,
+      "QtyOnBackOrder": 2,
+      "Description": "Stay warm and stylish with this cozy hoodie. Its soft fabric and modern design make it a must-have for your wardrobe."
+    },
+    {
+      "Id": "5",
+      "BrandId": 2,
+      "ProductName": "Sweater",
+      "GraphicName": "sweater.jpg",
+      "CostPrice": 34.99,
+      "MSRP": 69.99,
+      "QtyOnHand": 30,
+      "QtyOnBackOrder": 0,
+      "Description": "Wrap yourself in comfort and style with this fashionable sweater. Perfect for layering, it's a versatile addition to your clothing collection."
+    },
+    {
+      "Id": "6",
+      "BrandId": 1,
+      "ProductName": "Shorts",
+      "GraphicName": "shorts.jpg",
+      "CostPrice": 19.99,
+      "MSRP": 39.99,
+      "QtyOnHand": 15,
+      "QtyOnBackOrder": 3,
+      "Description": "Get ready for summer with these trendy shorts. Whether you're hitting the beach or strolling in the city, they offer both comfort and style."
+    },
+    {
+      "Id": "7",
+      "BrandId": 3,
+      "ProductName": "Skirt",
+      "GraphicName": "skirt.jpg",
+      "CostPrice": 22.99,
+      "MSRP": 44.99,
+      "QtyOnHand": 60,
+      "QtyOnBackOrder": 0,
+      "Description": "Add a touch of elegance to your outfit with this beautiful skirt. Its flattering design and high-quality fabric make it a must-have for any wardrobe."
+    },
+    {
+      "Id": "8",
+      "BrandId": 2,
+      "ProductName": "Jacket",
+      "GraphicName": "jacket.jpg",
+      "CostPrice": 49.99,
+      "MSRP": 99.99,
+      "QtyOnHand": 25,
+      "QtyOnBackOrder": 1,
+      "Description": "Stay stylish and warm with this fashionable jacket. Designed for both comfort and durability, it's a perfect choice for any season."
+    },
+    {
+      "Id": "9",
+      "BrandId": 1,
+      "ProductName": "Blouse",
+      "GraphicName": "blouse.jpg",
+      "CostPrice": 29.99,
+      "MSRP": 59.99,
+      "QtyOnHand": 40,
+      "QtyOnBackOrder": 0,
+      "Description": "Upgrade your wardrobe with this chic blouse. Its versatile design and premium fabric make it suitable for both casual and formal occasions."
+    },
+    {
+      "Id": "10",
+      "BrandId": 3,
+      "ProductName": "Pants",
+      "GraphicName": "pants.jpg",
+      "CostPrice": 27.99,
+      "MSRP": 54.99,
+      "QtyOnHand": 80,
+      "QtyOnBackOrder": 0,
+      "Description": "Experience comfort and style with these trendy pants. Made with stretchable fabric, they provide a perfect fit for any body type."
+    },
+    {
+      "Id": "11",
+      "BrandId": 2,
+      "ProductName": "Shirt",
+      "GraphicName": "shirt.jpg",
+      "CostPrice": 17.99,
+      "MSRP": 34.99,
+      "QtyOnHand": 35,
+      "QtyOnBackOrder": 4,
+      "Description": "Upgrade your casual look with this stylish shirt. Its modern design and breathable fabric make it ideal for everyday wear."
+    },
+    {
+      "Id": "12",
+      "BrandId": 1,
+      "ProductName": "Coat",
+      "GraphicName": "coat.jpg",
+      "CostPrice": 59.99,
+      "MSRP": 119.99,
+      "QtyOnHand": 10,
+      "QtyOnBackOrder": 8,
+      "Description": "Stay cozy and fashionable with this premium coat. Its superior insulation and timeless design make it a perfect choice for colder days."
+    },
+    {
+      "Id": "13",
+      "BrandId": 3,
+      "ProductName": "Sweatshirt",
+      "GraphicName": "sweatshirt.jpg",
+      "CostPrice": 21.99,
+      "MSRP": 42.99,
+      "QtyOnHand": 55,
+      "QtyOnBackOrder": 0,
+      "Description": "Stay comfortable and trendy with this versatile sweatshirt. Perfect for lounging or running errands, it's a must-have in your wardrobe."
+    },
+    {
+      "Id": "14",
+      "BrandId": 2,
+      "ProductName": "Polo Shirt",
+      "GraphicName": "polo.jpg",
+      "CostPrice": 24.99,
+      "MSRP": 49.99,
+      "QtyOnHand": 45,
+      "QtyOnBackOrder": 0,
+      "Description": "Elevate your casual style with this classic polo shirt. Its premium fabric and timeless design make it a go-to option for any occasion."
+    },
+    {
+      "Id": "15",
+      "BrandId": 1,
+      "ProductName": "Jumpsuit",
+      "GraphicName": "jumpsuit.jpg",
+      "CostPrice": 39.99,
+      "MSRP": 79.99,
+      "QtyOnHand": 15,
+      "QtyOnBackOrder": 2,
+      "Description": "Make a fashion statement with this trendy jumpsuit. Its flattering fit and modern design are perfect for a night out or special events."
+    }
+  ]
