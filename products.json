@@ -1,6 +1,6 @@
 [
 {
-"Id": "1",
+"Id": "B1000",
 "BrandId": "1",
 "ProductName": "T-Shirt",
 "GraphicName": "tshirt.jpg",
@@ -11,7 +11,7 @@
 "Description": "Stay comfortable and stylish with this trendy T-Shirt. Made from high-quality fabric, it's perfect for any casual occasion."
 },
 {
-"Id": "2",
+"Id": "O1000",
 "BrandId": "2",
 "ProductName": "Jeans",
 "GraphicName": "jeans.jpg",
@@ -22,7 +22,7 @@
 "Description": "Step up your fashion game with these classic jeans. Crafted with care, they offer both style and durability for everyday wear."
 },
 {
-"Id": "3",
+"Id": "A1000",
 "BrandId": "3",
 "ProductName": "Dress",
 "GraphicName": "dress.jpg",
@@ -33,7 +33,7 @@
 "Description": "Make a statement with this elegant dress. With its exquisite design and comfortable fit, it's perfect for special occasions or a night out."
 },
 {
-"Id": "4",
+"Id": "B1001",
 "BrandId": "1",
 "ProductName": "Hoodie",
 "GraphicName": "hoodie.jpg",
@@ -44,7 +44,7 @@
 "Description": "Stay warm and stylish with this cozy hoodie. Its soft fabric and modern design make it a must-have for your wardrobe."
 },
 {
-"Id": "5",
+"Id": "O1001",
 "BrandId": "2",
 "ProductName": "Sweater",
 "GraphicName": "sweater.jpg",
@@ -55,7 +55,7 @@
 "Description": "Wrap yourself in comfort and style with this fashionable sweater. Perfect for layering, it's a versatile addition to your clothing collection."
 },
 {
-"Id": "6",
+"Id": "A1001",
 "BrandId": "3",
 "ProductName": "Shorts",
 "GraphicName": "shorts.jpg",
@@ -66,7 +66,7 @@
 "Description": "Get ready for summer with these trendy shorts. Whether you're hitting the beach or strolling in the city, they offer both comfort and style."
 },
 {
-"Id": "7",
+"Id": "B1002",
 "BrandId": "1",
 "ProductName": "Skirt",
 "GraphicName": "skirt.jpg",
@@ -77,7 +77,7 @@
 "Description": "Add a touch of elegance to your outfit with this beautiful skirt. Its flattering design and high-quality fabric make it a must-have for any wardrobe."
 },
 {
-"Id": "8",
+"Id": "O1002",
 "BrandId": "2",
 "ProductName": "Jacket",
 "GraphicName": "jacket.jpg",
@@ -88,7 +88,7 @@
 "Description": "Stay stylish and warm with this fashionable jacket. Designed for both comfort and durability, it's a perfect choice for any season."
 },
 {
-"Id": "9",
+"Id": "A1002",
 "BrandId": "3",
 "ProductName": "Blouse",
 "GraphicName": "blouse.jpg",
@@ -99,7 +99,7 @@
 "Description": "Upgrade your wardrobe with this chic blouse. Its versatile design and premium fabric make it suitable for both casual and formal occasions."
 },
 {
-"Id": "10",
+"Id": "B1003",
 "BrandId": "1",
 "ProductName": "Pants",
 "GraphicName": "pants.jpg",
@@ -110,7 +110,7 @@
 "Description": "Experience comfort and style with these trendy pants. Made with stretchable fabric, they provide a perfect fit for any body type."
 },
 {
-"Id": "11",
+"Id": "O1003",
 "BrandId": "2",
 "ProductName": "Shirt",
 "GraphicName": "shirt.jpg",
@@ -121,7 +121,7 @@
 "Description": "Upgrade your casual look with this stylish shirt. Its modern design and breathable fabric make it ideal for everyday wear."
 },
 {
-"Id": "12",
+"Id": "A1003",
 "BrandId": "3",
 "ProductName": "Coat",
 "GraphicName": "coat.jpg",
@@ -132,7 +132,7 @@
 "Description": "Stay cozy and fashionable with this premium coat. Its superior insulation and timeless design make it a perfect choice for colder days."
 },
 {
-"Id": "13",
+"Id": "B1004",
 "BrandId": "1",
 "ProductName": "Sweatshirt",
 "GraphicName": "sweatshirt.jpg",
@@ -143,7 +143,7 @@
 "Description": "Stay comfortable and trendy with this versatile sweatshirt. Perfect for lounging or running errands, it's a must-have in your wardrobe."
 },
 {
-"Id": "14",
+"Id": "O1004",
 "BrandId": "2",
 "ProductName": "Polo Shirt",
 "GraphicName": "polo.jpg",
@@ -154,7 +154,7 @@
 "Description": "Elevate your casual style with this classic polo shirt. Its premium fabric and timeless design make it a go-to option for any occasion."
 },
 {
-"Id": "15",
+"Id": "A1004",
 "BrandId": "3",
 "ProductName": "Blazer",
 "GraphicName": "blazer.jpg",
